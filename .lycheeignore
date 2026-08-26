@@ -1,0 +1,7 @@
+# Sites that block automated checkers but are fine in a browser.
+# Review these manually rather than trusting CI.
+https://www.youtube.com/.*
+https://uk.rs-online.com/.*
+https://www.linkedin.com/.*
+https://twitter.com/.*
+https://x.com/.*

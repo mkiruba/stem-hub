@@ -1,0 +1,43 @@
+name: Link check
+
+on:
+  schedule:
+    # Every Monday at 06:00 UTC
+    - cron: '0 6 * * 1'
+  push:
+    paths:
+      - '**.md'
+  pull_request:
+    paths:
+      - '**.md'
+  workflow_dispatch:
+
+jobs:
+  check-links:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Check links with lychee
+        uses: lycheeverse/lychee-action@v2
+        with:
+          args: >-
+            --verbose
+            --no-progress
+            --max-concurrency 8
+            --timeout 20
+            --retry-wait-time 5
+            --max-retries 3
+            --accept 200,206,403,429
+            --exclude-path ./LICENSE.md
+            './**/*.md'
+          fail: false
+          output: ./lychee/out.md
+
+      - name: Open an issue if links are broken
+        if: env.lychee_exit_code != '0'
+        uses: peter-evans/create-issue-from-file@v5
+        with:
+          title: "Automated link check found broken links"
+          content-filepath: ./lychee/out.md
+          labels: broken link, automated

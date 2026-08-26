@@ -1,0 +1,91 @@
+name: Add a resource
+description: Suggest a free tutorial, video series, blog or GitHub repo
+title: "[Add] "
+labels: ["new resource"]
+body:
+  - type: input
+    id: url
+    attributes:
+      label: URL
+      placeholder: https://
+    validations:
+      required: true
+  - type: input
+    id: name
+    attributes:
+      label: Resource name
+    validations:
+      required: true
+  - type: textarea
+    id: teaches
+    attributes:
+      label: What does it teach?
+      description: One or two lines. What a learner can do afterwards that they couldn't before.
+    validations:
+      required: true
+  - type: dropdown
+    id: difficulty
+    attributes:
+      label: Difficulty
+      options:
+        - Foundation (approx 11-13)
+        - Intermediate (approx 14-16)
+        - Advanced (approx 17+)
+    validations:
+      required: true
+  - type: dropdown
+    id: type
+    attributes:
+      label: Type
+      options:
+        - Video
+        - Tutorial
+        - Blog
+        - GitHub
+        - Curriculum
+        - Simulator
+        - Reference
+        - Tool
+    validations:
+      required: true
+  - type: checkboxes
+    id: platforms
+    attributes:
+      label: Platforms
+      options:
+        - label: BBC micro:bit
+        - label: Raspberry Pi Pico
+        - label: Raspberry Pi (SBC)
+        - label: Arduino / Adafruit
+        - label: LEGO robotics
+        - label: Electronics fundamentals
+        - label: Platform-agnostic
+  - type: input
+    id: parts
+    attributes:
+      label: Parts needed
+      placeholder: e.g. micro:bit v2, 2x servo, breadboard - or "none, browser only"
+  - type: dropdown
+    id: used
+    attributes:
+      label: Have you used this with learners?
+      options:
+        - "Yes, with young people"
+        - "Yes, myself only"
+        - "No, but it looks solid"
+  - type: textarea
+    id: caveats
+    attributes:
+      label: Caveats
+      description: Strong language, unsafe demonstrations, thin free tier, outdated hardware, anything a supervisor should know.
+  - type: checkboxes
+    id: criteria
+    attributes:
+      label: Confirmation
+      options:
+        - label: This is free to access with no mandatory account
+          required: true
+        - label: I have checked the link works today
+          required: true
+        - label: This is not an affiliate or referral link
+          required: true

@@ -1,0 +1,39 @@
+name: Broken or outdated
+description: Report a dead link, or content that is still live but now wrong
+title: "[Fix] "
+labels: ["broken link"]
+body:
+  - type: input
+    id: page
+    attributes:
+      label: Which page in this repo?
+      placeholder: e.g. platforms/microbit.md
+    validations:
+      required: true
+  - type: input
+    id: url
+    attributes:
+      label: The problematic link
+      placeholder: https://
+    validations:
+      required: true
+  - type: dropdown
+    id: problem
+    attributes:
+      label: What's wrong?
+      options:
+        - Link is dead (404 / domain gone)
+        - Now behind a paywall or login
+        - Content is outdated (discontinued hardware, retired competition)
+        - Factually incorrect
+        - Safety concern
+    validations:
+      required: true
+  - type: textarea
+    id: detail
+    attributes:
+      label: Details
+  - type: input
+    id: replacement
+    attributes:
+      label: Suggested replacement (optional)
