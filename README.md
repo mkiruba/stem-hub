@@ -32,9 +32,13 @@ Organised by what you plug in. Each page lists free tutorials, video series, blo
 |---|---|---|---|
 | **BBC micro:bit v2** | Ages 11–14, classrooms, no soldering | ~£15 | [→](platforms/microbit.md) |
 | **Raspberry Pi Pico / Pico 2** | Ages 13+, MicroPython, best value | ~£5–7 | [→](platforms/raspberry-pi-pico.md) |
+| **ESP32 & M5Stack** | Ages 13+, IoT, screens, Wi-Fi projects | ~£15–40 | [→](platforms/esp32-m5stack.md) |
 | **Raspberry Pi (Zero 2 W / 4 / 5)** | Ages 14+, Linux, cameras, AI | ~£18–80 | [→](platforms/raspberry-pi.md) |
 | **Arduino & Adafruit boards** | Ages 13+, CircuitPython, wearables | ~£10–25 | [→](platforms/arduino-adafruit.md) |
-| **LEGO robotics (SPIKE / EV3 / Pybricks)** | Ages 11–16, no soldering, competitions | £££ (see note) | [→](platforms/lego-robotics.md) |
+| **LEGO robotics (SPIKE / EV3)** | Ages 11–16, no soldering, competitions | £££ (see note) | [→](platforms/lego-robotics.md) |
+| **VEX Robotics & VEXcode VR** | Ages 11–18, competitions, free simulator | £0 – £££ | [→](platforms/vex-robotics.md) |
+| **Programmable Drones** | Ages 13+, Python, aerospace, 3D space | ~£100 | [→](platforms/drones.md) |
+| **AI & Machine Vision** | Ages 13+, facial recognition, edge AI | ~£45–100 | [→](platforms/ai-vision.md) |
 | **Discrete electronics** | Everyone — the foundation layer | ~£25 kit | [→](platforms/electronics-fundamentals.md) |
 
 > ⚠️ **LEGO users read this.** LEGO Education ended sales of SPIKE Prime and SPIKE Essential on **30 June 2026**, following the retirement of MINDSTORMS in 2022. The app is supported until 2031, and the open-source [Pybricks](https://pybricks.com/) firmware keeps the hardware alive indefinitely. Full detail and migration options: [docs/05-lego-2026-transition.md](docs/05-lego-2026-transition.md).

@@ -6,9 +6,13 @@ Resources grouped by hardware family. If you already own something, start with i
 |---|---|---|---|---|
 | [BBC micro:bit v2](microbit.md) | 11–14 | ~£15 | No | Low |
 | [Raspberry Pi Pico / Pico 2](raspberry-pi-pico.md) | 13+ | ~£5 | Headers | Very high |
+| [ESP32 & M5Stack](esp32-m5stack.md) | 13+ | ~£15–40 | No (M5Stack) | Very high |
 | [Raspberry Pi (Zero 2 W / 4 / 5)](raspberry-pi.md) | 14+ | ~£18–80 | No | Very high |
 | [Arduino & Adafruit](arduino-adafruit.md) | 13+ | ~£10–30 | Some | High |
 | [LEGO robotics](lego-robotics.md) ⚠️ | 11–16 | £££ | No | Medium |
+| [VEX Robotics & VEXcode VR](vex-robotics.md) | 11–18 | £0–£££ | No | High |
+| [Programmable Drones](drones.md) | 13+ | ~£100 | No | High |
+| [AI & Machine Vision](ai-vision.md) | 13+ | ~£45–100 | No | High |
 | [Electronics fundamentals](electronics-fundamentals.md) | All | ~£25 | Eventually | Unlimited |
 
 ⚠️ LEGO Education ended SPIKE sales in June 2026 — [read this before buying](../docs/05-lego-2026-transition.md).
