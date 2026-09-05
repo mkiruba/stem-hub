@@ -13,72 +13,72 @@ The trade-off is boot time, power draw, SD card corruption, and the need to shut
 
 ## Official & free
 
-**[Raspberry Pi Foundation Projects](https://projects.raspberrypi.org/en/projects)** — `Foundation` `Intermediate` `Advanced` `Tutorial`
-Several hundred free, structured, step-by-step projects across coding, hardware and design. Published under Creative Commons, translated widely, and organised into paths. If you only bookmark one link from this repository, make it this one.
+> **[Raspberry Pi Foundation Projects](https://projects.raspberrypi.org/en/projects)** — `Foundation` `Intermediate` `Advanced` `Tutorial`
+> Several hundred free, structured, step-by-step projects across coding, hardware and design. Published under Creative Commons, translated widely, and organised into paths. If you only bookmark one link from this repository, make it this one. Parts needed: See tutorial for details.
 
-**[Raspberry Pi documentation](https://www.raspberrypi.com/documentation/)** — `Reference`
-Setup, configuration, hardware, camera. CC BY-SA licensed.
+> **[Raspberry Pi documentation](https://www.raspberrypi.com/documentation/)** — `Reference`
+> Setup, configuration, hardware, camera. CC BY-SA licensed. Parts needed: See tutorial for details.
 
-**[gpiozero](https://gpiozero.readthedocs.io/)** — `Intermediate` `Reference`
-The friendly GPIO library. Designed for education, and the recipes section is a project list in disguise.
+> **[gpiozero](https://gpiozero.readthedocs.io/)** — `Intermediate` `Reference`
+> The friendly GPIO library. Designed for education, and the recipes section is a project list in disguise. Parts needed: See tutorial for details.
 
-**[Picamera2 manual](https://datasheets.raspberrypi.com/camera/picamera2-manual.pdf)** — `Advanced` `Reference`
-Free PDF. The camera stack is powerful and under-documented elsewhere.
+> **[Picamera2 manual](https://datasheets.raspberrypi.com/camera/picamera2-manual.pdf)** — `Advanced` `Reference`
+> Free PDF. The camera stack is powerful and under-documented elsewhere. Parts needed: See tutorial for details.
 
-**[Code Club projects](https://projects.raspberrypi.org/en/codeclub)** — `Foundation` `Curriculum`
-Free, club-ready, sequenced.
+> **[Code Club projects](https://projects.raspberrypi.org/en/codeclub)** — `Foundation` `Curriculum`
+> Free, club-ready, sequenced. Parts needed: See tutorial for details.
 
 ---
 
 ## Video
 
-**[ExplainingComputers](https://www.youtube.com/@ExplainingComputers)** — `Intermediate` `Video`
-Christopher Barnatt's Pi reviews and projects. Calm, precise, and unusually good at explaining what a board is actually *for*.
+> **[ExplainingComputers](https://www.youtube.com/@ExplainingComputers)** — `Intermediate` `Video`
+> Christopher Barnatt's Pi reviews and projects. Calm, precise, and unusually good at explaining what a board is actually *for*. Parts needed: See tutorial for details.
 
-**[Raspberry Pi Foundation YouTube](https://www.youtube.com/@RaspberryPiFoundation)** — `Foundation` `Video`
-Official educational content and teacher CPD.
+> **[Raspberry Pi Foundation YouTube](https://www.youtube.com/@RaspberryPiFoundation)** — `Foundation` `Video`
+> Official educational content and teacher CPD. Parts needed: See tutorial for details.
 
-**[Kevin McAleer](https://www.youtube.com/@kevinmcaleer28)** — `Intermediate` `Video`
-Robotics-focused, covers Pi and Pico, everything open-sourced.
+> **[Kevin McAleer](https://www.youtube.com/@kevinmcaleer28)** — `Intermediate` `Video`
+> Robotics-focused, covers Pi and Pico, everything open-sourced. Parts needed: See tutorial for details.
 
-**[Jeff Geerling](https://www.youtube.com/@JeffGeerling)** — `Advanced` `Video`
-Deep Pi hardware and Linux content — clustering, PCIe, networking, storage benchmarking. For learners who've outgrown "how to blink an LED".
+> **[Jeff Geerling](https://www.youtube.com/@JeffGeerling)** — `Advanced` `Video`
+> Deep Pi hardware and Linux content — clustering, PCIe, networking, storage benchmarking. For learners who've outgrown "how to blink an LED". Parts needed: See tutorial for details.
 
-**[Core Electronics](https://www.youtube.com/@Core-Electronics)** — `Intermediate` `Video`
-Strong Pi-with-camera and Pi-with-AI content.
+> **[Core Electronics](https://www.youtube.com/@Core-Electronics)** — `Intermediate` `Video`
+> Strong Pi-with-camera and Pi-with-AI content. Parts needed: See tutorial for details.
 
 ---
 
 ## Blogs & magazines
 
-**[Raspberry Pi Official Magazine](https://magazine.raspberrypi.com/)** — `Intermediate` `Blog`
-Free PDFs of every issue plus the *MagPi* and *HackSpace* archives. Free books too — the Foundation publishes full project books as free downloads.
+> **[Raspberry Pi Official Magazine](https://magazine.raspberrypi.com/)** — `Intermediate` `Blog`
+> Free PDFs of every issue plus the *MagPi* and *HackSpace* archives. Free books too — the Foundation publishes full project books as free downloads. Parts needed: See tutorial for details.
 
-**[Tom's Hardware Raspberry Pi](https://www.tomshardware.com/raspberry-pi)** — `Intermediate` `Blog`
-Consistently good tutorials and honest reviews.
+> **[Tom's Hardware Raspberry Pi](https://www.tomshardware.com/raspberry-pi)** — `Intermediate` `Blog`
+> Consistently good tutorials and honest reviews. Parts needed: See tutorial for details.
 
-**[Pi My Life Up](https://pimylifeup.com/)** — `Intermediate` `Tutorial`
-Practical server-and-service projects: Pi-hole, media servers, NAS, VPN. Good for learners who want a Pi that does something useful in the house.
+> **[Pi My Life Up](https://pimylifeup.com/)** — `Intermediate` `Tutorial`
+> Practical server-and-service projects: Pi-hole, media servers, NAS, VPN. Good for learners who want a Pi that does something useful in the house. Parts needed: See tutorial for details.
 
-**[The Pi Hut blog](https://thepihut.com/blogs/raspberry-pi-tutorials)** — `Foundation` `Intermediate` `Tutorial`
+> **[The Pi Hut blog](https://thepihut.com/blogs/raspberry-pi-tutorials)** — `Foundation` `Intermediate` `Tutorial`
 
 ---
 
 ## GitHub
 
-**[raspberrypilearning](https://github.com/raspberrypilearning)** — `GitHub` `Curriculum`
-Every Foundation project, open-sourced. You can fork the whole curriculum and adapt it for your own club — the licence permits it.
+> **[raspberrypilearning](https://github.com/raspberrypilearning)** — `GitHub` `Curriculum`
+> Every Foundation project, open-sourced. You can fork the whole curriculum and adapt it for your own club — the licence permits it. Parts needed: See tutorial for details.
 
-**[raspberrypi/picamera2](https://github.com/raspberrypi/picamera2)** — `Advanced` `GitHub`
-Camera library with an extensive examples folder covering capture, video, and OpenCV integration.
+> **[raspberrypi/picamera2](https://github.com/raspberrypi/picamera2)** — `Advanced` `GitHub`
+> Camera library with an extensive examples folder covering capture, video, and OpenCV integration. Parts needed: See tutorial for details.
 
-**[raspberrypi/rpi-imager](https://github.com/raspberrypi/rpi-imager)** — `Advanced` `GitHub`
+> **[raspberrypi/rpi-imager](https://github.com/raspberrypi/rpi-imager)** — `Advanced` `GitHub`
 
-**[thibmaek/awesome-raspberry-pi](https://github.com/thibmaek/awesome-raspberry-pi)** — `GitHub`
-Curated index of projects, distributions and tools.
+> **[thibmaek/awesome-raspberry-pi](https://github.com/thibmaek/awesome-raspberry-pi)** — `GitHub`
+> Curated index of projects, distributions and tools. Parts needed: See tutorial for details.
 
-**[opencv/opencv](https://github.com/opencv/opencv)** — `Advanced` `GitHub`
-Computer vision. The [official tutorials](https://docs.opencv.org/) are free and thorough.
+> **[opencv/opencv](https://github.com/opencv/opencv)** — `Advanced` `GitHub`
+> Computer vision. The [official tutorials](https://docs.opencv.org/) are free and thorough. Parts needed: See tutorial for details.
 
 ---
 

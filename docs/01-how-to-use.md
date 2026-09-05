@@ -28,8 +28,8 @@ See [CONTRIBUTING.md](../CONTRIBUTING.md).
 ## Reading the entries
 
 ```
-**[Resource name](url)** — `Difficulty` `Type`
-What it teaches, in one line. Parts: what you need to own.
+> **[Resource name](url)** — `Difficulty` `Type`
+> What it teaches, in one line. Parts: what you need to own. Parts needed: See tutorial for details.
 ```
 
 **Difficulty:** `Foundation` (≈11–13) · `Intermediate` (≈14–16) · `Advanced` (≈17+)

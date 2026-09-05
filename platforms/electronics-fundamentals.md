@@ -26,66 +26,66 @@ In rough order of how often not knowing them causes a project to fail:
 
 ## Free courses & tutorials
 
-**[SparkFun Learn — Concepts](https://learn.sparkfun.com/tutorials/tags/concepts)** — `Foundation` `Intermediate` `Tutorial`
-The best free written explanations of fundamentals, with genuinely good diagrams. Their voltage/current/resistance, pull-up resistor, and logic level tutorials are worth using directly as lesson material.
+> **[SparkFun Learn — Concepts](https://learn.sparkfun.com/tutorials/tags/concepts)** — `Foundation` `Intermediate` `Tutorial`
+> The best free written explanations of fundamentals, with genuinely good diagrams. Their voltage/current/resistance, pull-up resistor, and logic level tutorials are worth using directly as lesson material. Parts needed: See tutorial for details.
 
-**[All About Circuits — Textbooks](https://www.allaboutcircuits.com/textbook/)** — `Intermediate` `Advanced` `Reference`
-A complete, free, multi-volume electronics textbook. Dense but authoritative — the reference for when a question goes deeper than a tutorial covers.
+> **[All About Circuits — Textbooks](https://www.allaboutcircuits.com/textbook/)** — `Intermediate` `Advanced` `Reference`
+> A complete, free, multi-volume electronics textbook. Dense but authoritative — the reference for when a question goes deeper than a tutorial covers. Parts needed: See tutorial for details.
 
-**[Khan Academy — Electrical Engineering](https://www.khanacademy.org/science/electrical-engineering)** — `Intermediate` `Curriculum`
-Free, structured, with exercises. Good for the maths-adjacent learner.
+> **[Khan Academy — Electrical Engineering](https://www.khanacademy.org/science/electrical-engineering)** — `Intermediate` `Curriculum`
+> Free, structured, with exercises. Good for the maths-adjacent learner. Parts needed: See tutorial for details.
 
-**[Adafruit Learn — Electronics basics](https://learn.adafruit.com/category/learn-electronics)** — `Foundation` `Tutorial`
+> **[Adafruit Learn — Electronics basics](https://learn.adafruit.com/category/learn-electronics)** — `Foundation` `Tutorial`
 
-**[CircuitLab / Falstad circuit simulator](https://www.falstad.com/circuit/)** — `Intermediate` `Simulator`
-Falstad's free browser simulator animates current flow through a circuit. Seeing charge move makes several concepts click that text never does.
+> **[CircuitLab / Falstad circuit simulator](https://www.falstad.com/circuit/)** — `Intermediate` `Simulator`
+> Falstad's free browser simulator animates current flow through a circuit. Seeing charge move makes several concepts click that text never does. Parts needed: See tutorial for details.
 
 ---
 
 ## Video
 
-**[Ben Eater](https://www.youtube.com/@BenEater)** — `Advanced` `Video`
-Builds a working 8-bit computer on breadboards from logic gates, then a 6502 machine, explaining every step. There is nothing else like it at any price. Also covers networking from first principles. Companion kits and free written material at [eater.net](https://eater.net/).
+> **[Ben Eater](https://www.youtube.com/@BenEater)** — `Advanced` `Video`
+> Builds a working 8-bit computer on breadboards from logic gates, then a 6502 machine, explaining every step. There is nothing else like it at any price. Also covers networking from first principles. Companion kits and free written material at [eater.net](https://eater.net/). Parts needed: See tutorial for details.
 
-**[GreatScott!](https://www.youtube.com/@greatscottlab)** — `Intermediate` `Video`
-Short, dense component explainers. Excellent on transistors, MOSFETs, boost converters.
+> **[GreatScott!](https://www.youtube.com/@greatscottlab)** — `Intermediate` `Video`
+> Short, dense component explainers. Excellent on transistors, MOSFETs, boost converters. Parts needed: See tutorial for details.
 
-**[ElectroBOOM](https://www.youtube.com/@ElectroBOOM)** — `Intermediate` `Video`
-Mehdi Sadaghdar teaches real electronics theory through deliberately painful demonstrations. Very effective and very memorable. **Note for supervisors:** he intentionally does dangerous things with mains and high voltage for comedy, which he flags but which younger viewers may not parse. Pair with an explicit conversation about [what not to copy](../docs/04-safety.md).
+> **[ElectroBOOM](https://www.youtube.com/@ElectroBOOM)** — `Intermediate` `Video`
+> Mehdi Sadaghdar teaches real electronics theory through deliberately painful demonstrations. Very effective and very memorable. **Note for supervisors:** he intentionally does dangerous things with mains and high voltage for comedy, which he flags but which younger viewers may not parse. Pair with an explicit conversation about [what not to copy](../docs/04-safety.md). Parts needed: See tutorial for details.
 
-**[Afrotechmods](https://www.youtube.com/@Afrotechmods)** — `Intermediate` `Video`
-Short, clear, no-nonsense component tutorials.
+> **[Afrotechmods](https://www.youtube.com/@Afrotechmods)** — `Intermediate` `Video`
+> Short, clear, no-nonsense component tutorials. Parts needed: See tutorial for details.
 
-**[EEVblog](https://www.youtube.com/@EEVblog)** — `Advanced` `Video`
-Dave Jones on test equipment, teardowns and design. The multimeter tutorials are the standard reference.
+> **[EEVblog](https://www.youtube.com/@EEVblog)** — `Advanced` `Video`
+> Dave Jones on test equipment, teardowns and design. The multimeter tutorials are the standard reference. Parts needed: See tutorial for details.
 
 ---
 
 ## Tools & design software (all free)
 
-**[KiCad](https://www.kicad.org/)** — `Advanced` `Tool`
-Full open-source PCB design. Schematic capture through to Gerber output. [Official docs](https://docs.kicad.org/) are thorough, and [Contextual Electronics](https://contextualelectronics.com/) publishes free tutorial series.
+> **[KiCad](https://www.kicad.org/)** — `Advanced` `Tool`
+> Full open-source PCB design. Schematic capture through to Gerber output. [Official docs](https://docs.kicad.org/) are thorough, and [Contextual Electronics](https://contextualelectronics.com/) publishes free tutorial series. Parts needed: See tutorial for details.
 
-**[Fritzing](https://fritzing.org/)** — `Foundation` `Tool`
-Breadboard-style diagrams. Source is free; binaries carry a small fee. Best for *documenting* wiring for others rather than for real design.
+> **[Fritzing](https://fritzing.org/)** — `Foundation` `Tool`
+> Breadboard-style diagrams. Source is free; binaries carry a small fee. Best for *documenting* wiring for others rather than for real design. Parts needed: See tutorial for details.
 
-**[Falstad Circuit Simulator](https://www.falstad.com/circuit/)** — `Intermediate` `Simulator`
+> **[Falstad Circuit Simulator](https://www.falstad.com/circuit/)** — `Intermediate` `Simulator`
 
-**[Wokwi](https://wokwi.com/)** — `Intermediate` `Simulator`
-Simulates microcontrollers *with* their circuits — the bridge between electronics theory and embedded code.
+> **[Wokwi](https://wokwi.com/)** — `Intermediate` `Simulator`
+> Simulates microcontrollers *with* their circuits — the bridge between electronics theory and embedded code. Parts needed: See tutorial for details.
 
-**[FreeCAD](https://www.freecad.org/)** / **[OnShape free tier](https://www.onshape.com/)** — `Advanced` `Tool`
-For enclosures, brackets and mechanical parts.
+> **[FreeCAD](https://www.freecad.org/)** / **[OnShape free tier](https://www.onshape.com/)** — `Advanced` `Tool`
+> For enclosures, brackets and mechanical parts. Parts needed: See tutorial for details.
 
 ---
 
 ## GitHub
 
-**[kitspace/awesome-electronics](https://github.com/kitspace/awesome-electronics)** — `GitHub`
-Curated index of resources, tools, and reference material.
+> **[kitspace/awesome-electronics](https://github.com/kitspace/awesome-electronics)** — `GitHub`
+> Curated index of resources, tools, and reference material. Parts needed: See tutorial for details.
 
-**[Digital Electronics / nand2tetris](https://www.nand2tetris.org/)** — `Advanced` `Curriculum`
-Build a computer from NAND gates up to an operating system. Free course materials, and the first half runs entirely in simulation — no hardware needed.
+> **[Digital Electronics / nand2tetris](https://www.nand2tetris.org/)** — `Advanced` `Curriculum`
+> Build a computer from NAND gates up to an operating system. Free course materials, and the first half runs entirely in simulation — no hardware needed. Parts needed: See tutorial for details.
 
 ---
 

@@ -13,68 +13,74 @@ Its other superpower is the MakeCode block↔Python toggle. The same program, vi
 
 ## Official & free
 
-**[micro:bit Projects](https://microbit.org/projects/make-it-code-it/)** — `Foundation` `Tutorial`
-The official project library. Filterable by difficulty and by what hardware you own. Step-by-step, with block and Python versions side by side. Start here.
+> **[micro:bit Projects](https://microbit.org/projects/make-it-code-it/)** — `Foundation` `Tutorial`
+> The official project library. Filterable by difficulty and by what hardware you own. Step-by-step, with block and Python versions side by side. Start here. Parts needed: See tutorial for details.
 
-**[MakeCode for micro:bit](https://makecode.microbit.org/)** — `Foundation` `Simulator`
-Browser editor with a built-in simulator, so learners can write and test code before hardware arrives. Works offline once loaded.
+> **[MakeCode for micro:bit](https://makecode.microbit.org/)** — `Foundation` `Simulator`
+> Browser editor with a built-in simulator, so learners can write and test code before hardware arrives. Works offline once loaded. Parts needed: See tutorial for details.
 
-**[micro:bit Python Editor](https://python.microbit.org/)** — `Foundation` `Intermediate`
-The step up from blocks. Autocomplete, a reference sidebar, and a simulator.
+> **[micro:bit Python Editor](https://python.microbit.org/)** — `Foundation` `Intermediate`
+> The step up from blocks. Autocomplete, a reference sidebar, and a simulator. Parts needed: See tutorial for details.
 
-**[micro:bit Classroom](https://classroom.microbit.org/)** — `Curriculum`
-Free live classroom tool — the teacher sees every learner's code in real time, no accounts needed. Genuinely excellent and underused.
+> **[micro:bit Classroom](https://classroom.microbit.org/)** — `Curriculum`
+> Free live classroom tool — the teacher sees every learner's code in real time, no accounts needed. Genuinely excellent and underused. Parts needed: See tutorial for details.
 
-**[micro:bit teaching resources](https://microbit.org/teach/)** — `Curriculum`
-Free schemes of work, lesson plans, and a full introductory computing course mapped to curricula in several countries.
+> **[micro:bit teaching resources](https://microbit.org/teach/)** — `Curriculum`
+> Free schemes of work, lesson plans, and a full introductory computing course mapped to curricula in several countries. Parts needed: See tutorial for details.
 
-**[MicroPython for micro:bit docs](https://microbit-micropython.readthedocs.io/)** — `Intermediate` `Reference`
-The proper API reference. Worth introducing early — reading documentation is the skill that outlasts the platform.
+> **[MicroPython for micro:bit docs](https://microbit-micropython.readthedocs.io/)** — `Intermediate` `Reference`
+> The proper API reference. Worth introducing early — reading documentation is the skill that outlasts the platform. Parts needed: See tutorial for details.
 
 ---
 
 ## Video
 
-**[micro:bit official YouTube](https://www.youtube.com/@microbit_edu)** — `Foundation` `Video`
-Short, focused project videos and teacher CPD content.
+> **[micro:bit official YouTube](https://www.youtube.com/@microbit_edu)** — `Foundation` `Video`
+> Short, focused project videos and teacher CPD content. Parts needed: See tutorial for details.
 
-**[Kitronik YouTube](https://www.youtube.com/@KitronikLtd)** — `Foundation` `Video`
-UK-made, classroom-oriented, and matched to kits you can actually buy here.
+> **[Kitronik YouTube](https://www.youtube.com/@KitronikLtd)** — `Foundation` `Video`
+> UK-made, classroom-oriented, and matched to kits you can actually buy here. Parts needed: See tutorial for details.
 
-**[Core Electronics](https://www.youtube.com/@Core-Electronics)** — `Foundation` `Intermediate` `Video`
-Clear, well-produced tutorials across micro:bit, Pico and Pi. Strong on explaining *why*, not just *how*.
+> **[Core Electronics](https://www.youtube.com/@Core-Electronics)** — `Foundation` `Intermediate` `Video`
+> Clear, well-produced tutorials across micro:bit, Pico and Pi. Strong on explaining *why*, not just *how*. Parts needed: See tutorial for details.
 
 ---
 
 ## Blogs & tutorial sites
 
-**[Kitronik Learn](https://kitronik.co.uk/blogs/resources)** — `Foundation` `Tutorial`
-Free project guides and downloadable lesson plans, mostly matched to Kitronik accessories but adaptable.
+> **[Kitronik Learn](https://kitronik.co.uk/blogs/resources)** — `Foundation` `Tutorial`
+> Free project guides and downloadable lesson plans, mostly matched to Kitronik accessories but adaptable. Parts needed: See tutorial for details.
 
-**[The Pi Hut micro:bit tutorials](https://thepihut.com/blogs/raspberry-pi-tutorials/tagged/micro-bit)** — `Foundation` `Tutorial`
-UK-specific parts lists, which saves a lot of substitution guesswork.
+> **[The Pi Hut micro:bit tutorials](https://thepihut.com/blogs/raspberry-pi-tutorials/tagged/micro-bit)** — `Foundation` `Tutorial`
+> UK-specific parts lists, which saves a lot of substitution guesswork. Parts needed: See tutorial for details.
 
-**[Hackster micro:bit projects](https://www.hackster.io/microbit)** — `Foundation` `Intermediate` `Blog`
-Community-submitted builds. Quality varies — treat as inspiration, verify the wiring.
+> **[Hackster micro:bit projects](https://www.hackster.io/microbit)** — `Foundation` `Intermediate` `Blog`
+> Community-submitted builds. Quality varies — treat as inspiration, verify the wiring. Parts needed: See tutorial for details.
 
 ---
 
 ## GitHub
 
-**[microbit-foundation](https://github.com/microbit-foundation)** — `GitHub`
-The editors, the MicroPython port, DAPLink firmware. Open source, and a good first place for a teenager to read real production code.
+> **[microbit-foundation](https://github.com/microbit-foundation)** — `GitHub`
+> The editors, the MicroPython port, DAPLink firmware. Open source, and a good first place for a teenager to read real production code. Parts needed: See tutorial for details.
 
-**[bbcmicrobit/micropython](https://github.com/bbcmicrobit/micropython)** — `Intermediate` `GitHub`
-The MicroPython implementation itself.
+> **[bbcmicrobit/micropython](https://github.com/bbcmicrobit/micropython)** — `Intermediate` `GitHub`
+> The MicroPython implementation itself. Parts needed: See tutorial for details.
 
-**[microbit-foundation/microbit-v2-samples](https://github.com/microbit-foundation/microbit-v2-samples)** — `Advanced` `GitHub`
-C/C++ development against the runtime, for learners who want to go below Python.
+> **[microbit-foundation/microbit-v2-samples](https://github.com/microbit-foundation/microbit-v2-samples)** — `Advanced` `GitHub`
+> C/C++ development against the runtime, for learners who want to go below Python. Parts needed: See tutorial for details.
 
 ---
 
 ## Project ideas by track
 
-**Foundation:** reaction timer · step counter · dice · radio message chat between two boards · sound-level meter · plant moisture alarm · rock-paper-scissors · compass navigation game
+> **[Reaction Game](https://microbit.org/projects/make-it-code-it/reaction-game/)** — `Foundation` `Tutorial`
+> A 2-player reaction game using the A and B buttons. Parts needed: micro:bit, battery pack.
+
+> **[Step Counter](https://microbit.org/projects/make-it-code-it/step-counter/)** — `Foundation` `Tutorial`
+> Use the built-in accelerometer to count steps. Parts needed: micro:bit, battery pack.
+
+**Foundation:** dice · radio message chat between two boards · sound-level meter · plant moisture alarm · rock-paper-scissors · compass navigation game
 
 **Intermediate:** line-following buggy (Kitronik or Pi Hut motor driver) · data logger writing to flash and exported as CSV · radio-networked sensor mesh across a classroom · MIDI-over-USB controller · automated greenhouse
 
