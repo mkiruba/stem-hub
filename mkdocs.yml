@@ -79,3 +79,18 @@ markdown_extensions:
 
 extra_javascript:
   - javascripts/external-links.js
+
+extra:
+  analytics:
+    provider: google
+    property: G-V2BMZGL9W2
+  consent:
+    title: Cookie consent
+    description: >-
+      We use cookies to recognise repeat visits and measure which resources
+      are actually useful, so we know what to improve. With your consent,
+      you're helping us make this site better.
+    actions:
+      - accept
+      - reject
+      - manage
