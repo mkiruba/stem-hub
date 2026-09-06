@@ -33,7 +33,7 @@ theme:
         icon: material/brightness-4
         name: Switch to light mode
 
-docs_dir: '.'
+docs_dir: 'build_docs'
 
 nav:
   - Home: 'README.md'

@@ -29,4 +29,8 @@ jobs:
           restore-keys: |
             mkdocs-material-
       - run: pip install mkdocs-material
+      - name: Prepare docs dir
+        run: |
+          mkdir -p build_docs
+          rsync -av --exclude='build_docs' --exclude='.git' --exclude='mkdocs.yml' --exclude='.github' --exclude='.agents' ./ build_docs/
       - run: mkdocs gh-deploy --force
