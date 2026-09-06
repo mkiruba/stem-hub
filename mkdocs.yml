@@ -76,3 +76,6 @@ markdown_extensions:
   - attr_list
   - md_in_html
   - tables
+
+extra_javascript:
+  - javascripts/external-links.js
