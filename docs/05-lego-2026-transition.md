@@ -41,6 +41,7 @@ Realistic options:
 | **Secondhand SPIKE Prime + Pybricks** | Best LEGO experience, open-source software future, still FLL-legal for Founders Edition through 2027–28 | Variable, watch for inflation |
 | **Secondhand EV3 + Pybricks** | Cheap, robust, huge community, now flashable over USB in seconds | Low |
 | **LEGO Education Computer Science & AI** | The supported path forward, and the basis of FLL Future Edition | ~$340/kit, classroom-oriented |
+| **Sphero (Bolt / RVR)** | No soldering, block-to-Python like SPIKE, but not tied to LEGO's roadmap or FLL. A reasonable lateral move for a club that wants to keep the "drive a robot" framing | ~£130–280 |
 | **Move off LEGO entirely** | micro:bit or Pi Pico robotics gives more transferable skills for less money | £15–60 |
 
 ### If you run an FLL team

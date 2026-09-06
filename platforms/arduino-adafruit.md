@@ -36,6 +36,9 @@ Two ecosystems, treated together because they overlap heavily in practice.
 > **[Tinkercad Circuits](https://www.tinkercad.com/circuits)** — `Foundation` `Simulator`
 > Free browser simulation of Arduino plus components, with block coding available. Superb for classrooms with more students than boards. Parts needed: See tutorial for details.
 
+> **[Seeed Studio Grove Beginner Kit for Arduino](https://wiki.seeedstudio.com/Grove-Beginner-Kit-For-Arduino/)** — `Foundation` `Reference`
+> Ten sensors and modules pre-wired to a single PCB — no breadboard, no jumper wires, so miswiring simply isn't possible for the first few weeks. A gentler on-ramp than a bare Arduino Uno for a learner moving on from micro:bit crocodile clips. Stocked via [The Pi Hut](https://thepihut.com/) and [Pimoroni](https://shop.pimoroni.com/). Parts needed: Grove Beginner Kit board.
+
 > **[Wokwi](https://wokwi.com/)** — `Intermediate` `Simulator`
 > More capable simulation covering Arduino, ESP32 and Pico. Free, no install. Parts needed: See tutorial for details.
 

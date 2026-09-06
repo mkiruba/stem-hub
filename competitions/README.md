@@ -27,6 +27,12 @@ Where FLL teams are now pointed. FRC in particular is a serious commitment — s
 ### [RoboCup Junior](https://junior.robocup.org/) — ages up to 19
 Soccer, rescue and OnStage leagues. Platform-agnostic, so a Pico or Arduino robot is entirely viable. Strong international pathway.
 
+### [World Robot Olympiad](https://wro-association.org/) — ages 8–19
+Genuinely platform-agnostic, which is rare — RoboMission accepts any hardware (LEGO, Pico, Arduino, custom), Future Engineers is an autonomous-vehicle challenge, and Future Innovators is an open, self-defined project judged like a science fair. A UK national final feeds the international finals. Worth serious consideration as the default robotics competition here, precisely because it doesn't lock a team into one hardware platform the way FLL, VEX or FTC do.
+
+### [MATE ROV Competition](https://materovcompetition.org/) — ages 11–19+ (school divisions; Explorer class extends to university)
+Underwater robotics: design and build a remotely-operated vehicle to complete missions in a pool. The entry-level build is a PVC-pipe frame, a bilge-pump motor for thrust, and a tether — well under £60 in parts, and a genuinely new theme for this repo (nothing else here touches marine engineering). International, with regional qualifiers.
+
 ---
 
 ## Engineering & design
@@ -39,6 +45,21 @@ CAD, CFD, manufacturing, and a business case alongside the engineering. Broader 
 
 ### [Formula Student](https://www.imeche.org/events/formula-student) — university level
 Where this pathway ends up. Worth showing to 16-year-olds as a destination.
+
+### [Green Power Education Trust](https://www.greenpower.co.uk/) — UK, ages 9–25
+Design, build and race a genuinely electric single-seater car — Goblin class for the youngest, up through Formula 24 and 24+. More mechanical and electrical engineering than pure coding, and a strong option for learners who want to build something that physically races other teams' cars.
+
+---
+
+## Recognition for your own project
+
+Everything above is a competition with a fixed format. These aren't — they badge or showcase a self-directed project of the learner's own choosing, which fits this repository's default mode of working better than any league does.
+
+### [CREST Awards](https://www.crestawards.org/) — UK, ages 5–19, free
+The British Science Association's project-based award scheme: Discovery, Bronze, Silver and Gold, roughly matched to the [age bands](../docs/02-age-bands-and-tracks.md) used throughout this site. Any project from any platform page here qualifies — there's no required format, hardware or topic. If a learner has already built something from this repo and wants recognition for it rather than a new competition to enter, this is the answer.
+
+### [The Big Bang Competition](https://www.thebigbangfair.co.uk/big-bang-competition/) — UK, ages 11–18, free
+EngineeringUK's national science and engineering fair pathway, judged categories across all STEM subjects, culminating in The Big Bang Fair. The closest thing on this page to a general-purpose science fair, which nothing else here provides — every other entry is robotics-, coding- or space-specific.
 
 ---
 
@@ -63,6 +84,8 @@ Design, build and fly a rocket to a target altitude with a fragile payload.
 - **[Bebras](https://www.bebras.uk/)** — UK computational thinking challenge, ages 6–18, free
 - **[UK Bebras → Oxford Computing Challenge](https://www.olympiad.org.uk/)** → **British Informatics Olympiad** — the competitive programming pathway
 - **[Coolest Projects](https://coolestprojects.org/)** — Raspberry Pi Foundation showcase rather than a competition. No winners, no losers, any project accepted. Excellent for learners who freeze under competitive pressure.
+- **[Technovation Girls](https://technovationgirls.org/)** — ages 8–18, free, international with UK teams. All-girls teams build a mobile app addressing a real community problem, then pitch it like a startup — coding plus entrepreneurship, and a direct answer to the gender-balance point raised in the [wearables theme](../themes/README.md#wearables-e-textiles).
+- **[NCSC CyberFirst](https://www.ncsc.gov.uk/cyberfirst/overview)** — UK, ages 11–17, free. The National Cyber Security Centre's free courses, bursaries and the CyberFirst Girls Competition (Year 8). No hardware, no cost — and cybersecurity isn't covered anywhere else in this repository.
 
 ---
 
@@ -75,6 +98,9 @@ Design, build and fly a rocket to a target altitude with a fragile payload.
 | A hobbyist family or small club | Pi Wars |
 | Ambitious 16–18s wanting a personal statement | CanSat, Astro Pi Mission Space Lab, FRC |
 | Learners who dislike competition | Coolest Projects |
+| Already finished a project, want it recognised | CREST Awards |
+| Want a robotics league that isn't locked to one hardware platform | World Robot Olympiad |
+| Interested in something other than wheeled robots | MATE ROV (underwater), Green Power (electric cars) |
 
 ---
 

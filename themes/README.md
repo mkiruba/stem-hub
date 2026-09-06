@@ -18,6 +18,8 @@ The default STEM project, and for good reason: movement is immediately legible a
 **Progression:** line follower → obstacle avoidance → PID control → odometry → SLAM.
 PID line-following is the sweet spot around 14–16: real control theory, visible results, achievable in a term.
 
+**Not just wheels:** an underwater ROV — PVC-pipe frame, bilge-pump thrusters, a tethered control line — is the same electronics and control-theory skills applied to water instead of a floor, and it's the build behind the [MATE ROV competition](../competitions/README.md#robotics). Worth offering as an alternative when a group has done three wheeled robots and wants a genuinely different constraint.
+
 ---
 
 ## 👕 Wearables & e-textiles

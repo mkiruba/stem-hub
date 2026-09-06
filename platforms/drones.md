@@ -28,6 +28,8 @@ While building a custom drone from scratch requires advanced soldering and PID t
 
 > **[ESA CanSat Student Training Academy](https://cansat.esa.int/)** — `Intermediate` `Advanced` `Curriculum`
 > European Space Agency guides for designing, coding, and launching a soda-can-sized satellite payload with atmospheric telemetry. Parts needed: Arduino/microcontroller, sensors, radio transceiver.
+>
+> **A concrete starting parts list:** an Arduino Nano or Pico, a BMP280 (pressure/altitude) and MPU6050 (accelerometer/gyro) breakout, and a radio telemetry link — an [RFM95 LoRa module](https://thepihut.com/) or a simple 433 MHz transmitter/receiver pair are the usual entry points, both stocked via The Pi Hut or RS. Add a parachute and a 3D-printed or foam airframe. This is the same sensor set used throughout the [environment & sensing theme](../themes/README.md#environment-sensing), just flown rather than left on a desk.
 
 ---
 

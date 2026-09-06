@@ -82,7 +82,7 @@ Its other superpower is the MakeCode block↔Python toggle. The same program, vi
 
 **Foundation:** dice · radio message chat between two boards · sound-level meter · plant moisture alarm · rock-paper-scissors · compass navigation game
 
-**Intermediate:** line-following buggy (Kitronik or Pi Hut motor driver) · data logger writing to flash and exported as CSV · radio-networked sensor mesh across a classroom · MIDI-over-USB controller · automated greenhouse
+**Intermediate:** line-following buggy — the **[Kitronik :MOVE mini buggy](https://kitronik.co.uk/products/5652-move-mini-mk2-buggy-kit-for-bbc-microbit)** (~£30) is the de facto standard first robot kit for this board, no soldering required · data logger writing to flash and exported as CSV · radio-networked sensor mesh across a classroom · MIDI-over-USB controller · automated greenhouse
 
 **Advanced:** the micro:bit is deliberately capped. By this stage, move to Pico or Pi — but the micro:bit remains excellent as a *sensor node* or handheld controller in a bigger system, talking over its radio to a Pi hub.
 

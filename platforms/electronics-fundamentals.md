@@ -89,6 +89,12 @@ In rough order of how often not knowing them causes a project to fail:
 
 ---
 
+## An even gentler start
+
+For a learner younger than the usual Foundation entry point, or anyone who finds a breadboard intimidating on day one, **[Snap Circuits](https://www.elenco.com/)** (Elenco) removes wiring entirely — colour-coded blocks snap onto a base grid to build real circuits, no soldering and no crocodile clips. It doesn't replace a breadboard kit, but it buys a week or two of "circuits are fun" before the first wiring error shows up. Available via RS and general UK retailers.
+
+---
+
 ## A minimum viable component kit
 
 For a learner or small club, roughly £30 at RS:

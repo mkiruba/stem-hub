@@ -35,6 +35,8 @@ Worth adding: **[Pimoroni](https://shop.pimoroni.com/)** (Sheffield) and **[Kitr
 
 Gets you through roughly thirty projects before you need anything else.
 
+*Younger than this, or wiring-averse?* [Snap Circuits](https://www.elenco.com/) (Elenco, via RS) removes wiring entirely — colour-coded blocks snap together, no crocodile clips needed. Not a substitute for Bundle A, but a good pre-Bundle-A step for an 8–10-year-old.
+
 ### Bundle B — Intermediate, one learner (~£70)
 
 | Item | Approx | Why |
@@ -46,6 +48,8 @@ Gets you through roughly thirty projects before you need anything else.
 | Multimeter | £15 | Non-negotiable. Cheap is fine. |
 | Soldering iron (temperature-controlled) | £25 | See [safety](04-safety.md) |
 | Assorted I²C sensors (STEMMA QT / Qwiic) | £15 | Plug-in sensors, no wiring errors |
+
+*Want to skip breadboard wiring errors entirely for the first month?* Swap the breadboard, jumper wires and component kit for a **[Grove Beginner Kit for Arduino](https://wiki.seeedstudio.com/Grove-Beginner-Kit-For-Arduino/)** (~£25, The Pi Hut/Pimoroni) — ten sensors pre-wired to one board. Move to loose components once the fundamentals have landed.
 
 ### Bundle C — Advanced, one learner (~£160)
 
