@@ -1,0 +1,78 @@
+site_name: Open STEM Hub
+site_description: A curated, free-and-open collection of coding, electronics, and robotics projects for ages 11–20+
+site_url: https://mkiruba.github.io/stem-hub/
+
+theme:
+  name: material
+  features:
+    - navigation.instant
+    - navigation.tracking
+    - navigation.tabs
+    - navigation.sections
+    - navigation.expand
+    - navigation.top
+    - search.suggest
+    - search.highlight
+    - search.share
+    - content.code.copy
+  palette:
+    # Palette toggle for light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: indigo
+      accent: deep purple
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    # Palette toggle for dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: indigo
+      accent: deep purple
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+
+docs_dir: '.'
+
+nav:
+  - Home: 'README.md'
+  - Start Here:
+    - 'How to use this': 'docs/01-how-to-use.md'
+    - 'Age bands & learning tracks': 'docs/02-age-bands-and-tracks.md'
+    - 'Buying guide (UK)': 'docs/03-buying-guide-uk.md'
+    - 'Safety & supervision': 'docs/04-safety.md'
+    - 'LEGO 2026 transition': 'docs/05-lego-2026-transition.md'
+  - Platforms:
+    - 'Overview': 'platforms/README.md'
+    - 'BBC micro:bit v2': 'platforms/microbit.md'
+    - 'Raspberry Pi Pico': 'platforms/raspberry-pi-pico.md'
+    - 'ESP32 & M5Stack': 'platforms/esp32-m5stack.md'
+    - 'Raspberry Pi (Linux)': 'platforms/raspberry-pi.md'
+    - 'Arduino & Adafruit': 'platforms/arduino-adafruit.md'
+    - 'LEGO robotics (SPIKE/EV3)': 'platforms/lego-robotics.md'
+    - 'VEX Robotics & VR': 'platforms/vex-robotics.md'
+    - 'Programmable Drones': 'platforms/drones.md'
+    - 'AI & Machine Vision': 'platforms/ai-vision.md'
+    - 'Discrete electronics': 'platforms/electronics-fundamentals.md'
+  - Themes:
+    - 'Overview': 'themes/README.md'
+  - Competitions:
+    - 'Overview': 'competitions/README.md'
+  - Resource Libraries:
+    - 'Video channels': 'resources/video-channels.md'
+    - 'Blogs & magazines': 'resources/blogs-and-magazines.md'
+    - 'GitHub repos & orgs': 'resources/github-repos.md'
+    - 'Free curricula': 'resources/free-curricula.md'
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - attr_list
+  - md_in_html
+  - tables
